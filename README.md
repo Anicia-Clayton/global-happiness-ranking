@@ -1,0 +1,1 @@
+# global-happiness-ranking
