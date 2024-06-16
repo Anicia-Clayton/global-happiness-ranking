@@ -1,25 +1,25 @@
 # global-happiness-ranking
 
-• Project Title
+K Means Clustering of Global Happiness Ranking
 
-o Including a descriptive title that states the type of analysis and project draws in your prospective employer. Do not title your project “Portfolio Project”; instead try adding the modeling algorithm and data used to your title. For example: “Natural Language Processing of Election Day Tweets.”
+OVERVIEW
 
-• Project Overview
+The goal of this project is to train an unsupervised maching learning model to cluster countries based on features such as economic production, social support, life expectancy, freedom, absence of corruption, and generosity. This project utilized The World Happiness Report of 2017 from the United Nations (UN).
 
-o A project overview should be a few sentences long stating the problem you solved, what data was used in the project, and your modeling results.
+In the case study, The World Happiness Report ranks global happiness by country. The happiness scores and ranking data was collected by asking individuals to rank their life from 0 to 10, 10 being the best possible life. We will be training an unsupervised maching learning model to cluster countries based on which features have the highest impact on a countries' happiness ranking. The dataset can be found at https://www.kaggle/.com/unsdsn/world-happiness
 
-• Business Understanding
+BUSINESS UNDERSTANDING
 
 o You should have a section that showcases the stakeholder(s) and the business problem you tried to solve. Feel free to add citations of research you did on your business problem here as well.
 
-• Data Understanding
+DATA UNDERSTANDING
 
 o Explain what data you used in your analysis, the timeframe of the data, and any data limitations. This is also a good section to add visualizations of your exploratory data analysis.
 
-• Modeling and Evaluation
+MODELING & EVALUATION
 
 o This section should detail what models you used and the corresponding evaluation metrics.
 
-• Conclusion
+CONCLUSION
 
 o In the conclusion section explain the recommendations you have in solving the business problem and highlight any future steps you will take to expand on your project
